@@ -16,4 +16,4 @@ I think this is not meant to deploy or use for a public purposes, because everyt
 
 If you have an idea that somehow worth to add on my little practice-project, you could directly involve and I will very grateful for your kindness to share your knowledge to me.
 
-I also wanna say **Thank you** for @jslvtr for the course, and to all of you who give me an input.
+I also wanna say **Thank you** to @jslvtr for the course, and to all of you who give me an input.
